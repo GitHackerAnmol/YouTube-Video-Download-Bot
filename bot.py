@@ -11,9 +11,9 @@ from pyrogram.errors import FloodWait, UserNotParticipant
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, ForceReply
 ########################🎊 Lisa | NT BOTS 🎊######################################################
 # Replace 'YOUR_API_ID', 'YOUR_API_HASH', and 'YOUR_BOT_TOKEN' with your actual values
-API_ID = ''
-API_HASH = ''
-BOT_TOKEN = ''
+API_ID = '25266349'
+API_HASH = '89d318f003b35098d1777c7ba9bc7af3'
+BOT_TOKEN =  '6707029174:AAEWVkHt66STIevNa-JeVRo8aZQgc1UyRlE'
 #########################
 # Add Your Channel Id 
 CHANNEL = ''
